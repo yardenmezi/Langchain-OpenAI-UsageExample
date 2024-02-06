@@ -12,7 +12,7 @@ def useOpenAi(query: str):
     os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY")
     info = TextLoader('data.txt')
 
-    index = VectorstoreIndexCreator().index.from_loaders([info])
+    index = VectorstoreIndexCreator().from_loaders([info])
     print("****** The query result from the loaded data and chat GPT *****\n" + index.query(query, llm=ChatOpenAI()))
 
 
