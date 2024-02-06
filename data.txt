@@ -1,0 +1,11 @@
+This file serves as an example of how to create a data.txt file for generating prompts.
+
+Feel free to use this as a template by asking about the following described cat.
+
+Cat Description:
+
+Meet Whiskers, a playful and affectionate 4-year-old tabby cat with bright green eyes and a soft fur coat.
+Whiskers is quite unique, as she is a rare purple cat, with a luscious lavender hue that sets her apart from other felines.
+She loves to spend her days exploring the forest with her family, enjoying the sights and sounds of nature.
+When she's not adventuring, Whiskers can be found lounging in sunny spots around her family's white and blue house, basking in the warmth and tranquility.
+She enjoys chasing after toy mice and feather wands, showcasing her agility and grace. With her gentle demeanor and loyal companionship, Whiskers is the perfect furry friend for anyone seeking comfort and joy in their lives.
