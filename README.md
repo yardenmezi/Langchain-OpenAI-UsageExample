@@ -15,13 +15,13 @@ This project provides examples of using LangChain with OpenAI GPT for educationa
 1. Log in to OpenAI (if you don't have an account, Create one).
 2. All API keys can be found/generated on [this link](https://platform.openai.com/api-keys).
 3. Copy your API key.
-4. Set API Key in .env file: Paste the API key in [.env](.env) file.
+4. Set API Key in .env file: Paste the API key in [.env](env) file.
 </details>
 
 <details>
 <summary>2. Install required packages</summary>
 
-All the required packages are listed in the [requirements file](.requirements.txt).
+All the required packages are listed in the [requirements file](requirements.txt).
 You can install them using `pip install -r requirements.txt`.
 </details>
 
